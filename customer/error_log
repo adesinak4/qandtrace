@@ -1,0 +1,24 @@
+[27-Apr-2020 14:19:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/arafph7m8my3/public_html/qandtrace.com/connection.php on line 8
+[27-Apr-2020 14:19:25 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/arafph7m8my3/public_html/qandtrace.com/connection.php on line 8
+[27-Apr-2020 14:25:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/arafph7m8my3/public_html/qandtrace.com/connection.php on line 8
+[27-Apr-2020 14:25:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/arafph7m8my3/public_html/qandtrace.com/connection.php on line 8
+[27-Apr-2020 14:34:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/arafph7m8my3/public_html/qandtrace.com/connection.php on line 8
+[27-Apr-2020 14:34:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/arafph7m8my3/public_html/qandtrace.com/connection.php on line 8
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 58
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 67
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 76
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 85
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 94
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 103
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 112
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 121
+[27-Apr-2020 14:37:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 130
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 58
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 67
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 76
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 85
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 94
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 103
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 112
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 121
+[27-Apr-2020 14:37:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/arafph7m8my3/public_html/qandtrace.com/index.php on line 130
